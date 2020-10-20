@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Appiada</string>
+    <string name="label_joker_hint">Aqui será exibida a piada</string>
+    <string name="button_new_joker">Conte outra piada</string>
+
+    <string name="joker_one">Joker one </string>
+    <string name="joker_two">Joker two </string>
+    <string name="joker_three">Joker three </string>
+    <string name="joker_four">Joker four </string>
+    <string name="joker_five">Joker five </string>
+    <string name="joker_six">Joker six </string>
+    <string name="joker_seven">Joker seven </string>
+</resources>
